@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">SMS Mailer</string>
+    <string name="enable_account">Choose Account</string>
+    <string name="disable_account">Disable Forwarding</string>
+    <string name="send_test_email">Send Test Email</string>
+    <string name="test_email_body">This email confirms that SMS forwarding is working on your device!</string>
+    <string name="email_subject">Text message from %s</string>
+    <string name="test_email">Test Email</string>
+    <string name="sms_mailer_enabled">SMS Mailer successfully enabled!</string>
+    <string name="test_email_sent">Test email sent!</string>
+    <string name="not_online">Internet connectivity was not detected. Connect to the Internet and try again.</string>
+    <string name="permissions_desc">This app needs access to your Google account and your received SMSes.</string>
+    <string name="gplay_title">This app requires Google Play Services.</string>
+    <string name="gplay_msg">Please install Google Play Services on your device and relaunch this app.</string>
+    <string name="enabling_sms_mailer">Enabling SMS Mailer…</string>
+
+    <string name="enabled_info">SMS forwarding is now enabled for the account \'%s\'.</string>
+    <string name="disabled_info">SMS forwarding is not currently enabled. Tap \'%s\' to begin.</string>
+</resources>
